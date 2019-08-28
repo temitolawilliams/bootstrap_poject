@@ -1,0 +1,79 @@
+.navigation li a{
+	color: grey;
+	font-family: sans-serif;
+}
+#dp{
+	height: 60px;
+	width: 60px;
+}
+.profile{
+	text-align: center;
+	margin-top: -150px;
+	color: grey;
+}
+.about{
+	background-image: url(../image/section-bg.jpg);
+	text-align: center;
+	color: white;
+	background-color: rgba(5,180,200,0.2);
+	/*background-repeat: no-repeat;*/
+	background-size: cover;
+}
+.info{
+	padding: 90px;
+}
+
+span{
+	color: green;
+}
+.experience{
+	background-color: grey;
+}
+.experience img{
+	width: 80px;
+	height: 80px;
+}
+
+.minute{
+	color: grey;
+	background-color: white;
+	width: 500px;
+	height:auto;
+	 padding: 30px;
+}
+.download{
+	/*background-color: rgba(10, 100, 250, 0.3);*/
+	margin-top: 80px;
+
+}
+.portfolio{
+	text-align: center;
+	color: grey;
+	margin-top: 60px;
+}
+.portfolio img{
+	width: 450px;
+}
+.contact h3{
+	text-align: center;
+	color:grey;
+}
+form-control2{
+	width: 500px;
+	height:300px;
+}
+.expense{
+	background-color: rgba(10, 100, 250, 0.3);
+	background-image: url(../image/section-bg.jpg);
+	background-size: cover;
+	color:white;
+}
+.expense table{
+	width: 750px;
+	height: auto;
+	text-align: center;
+	margin: auto;
+	border-style: thick;
+
+}
+
